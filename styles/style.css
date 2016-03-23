@@ -114,12 +114,12 @@ body {
   border-bottom-color:white;
 }
 .row4 #item2 {
-  flex-grow: 1.75;
+  flex-grow: 1.78;
    border-bottom-color:red;
    border-top-color:red;
 }
 .row4 #item3 {
-  flex-grow: .98;
+  flex-grow: .92;
    border-bottom-color:white;
   
 }
@@ -150,11 +150,11 @@ body {
    border-bottom-color:white;
 }
 .row5 #item2 {
-  flex-grow: 1.75;
+  flex-grow: 1.78;
    border-top-color:red;
 }
 .row5 #item3 {
-  flex-grow: .98;
+  flex-grow: .92;
    border-top-color:white;
 }
 .row5 #item4 {
@@ -215,7 +215,7 @@ body {
 }
 
 .row7 #item3 {
-  flex-grow: .829;
+  flex-grow: .87;
 }
 
 .row7 #item4 {
@@ -289,12 +289,12 @@ body {
 }
 
 .row9 #item3 {
-  flex-grow: .372;
+  flex-grow: .37;
    border-bottom-color:yellow;
 }
 
 .row9 #item4 {
-  flex-grow: .372;
+  flex-grow: .36;
   border-bottom-color:white;
 }
 
@@ -303,7 +303,7 @@ body {
    border-bottom-color:red;
 }
 .row9 #item6 {
-  flex-grow: 3;
+  flex-grow: 2.97;
    border-top-color:yellow;
 }
 
@@ -318,15 +318,15 @@ body {
 }
 
 .row10 #item1 {
-  flex-grow: 1.672;
+  flex-grow: 1.7;
 }
 .row10 #item2 {
-  flex-grow: .372;
+  flex-grow: .367;
   border-top-color:yellow;
 }
 
 .row10 #item3 {
-  flex-grow: .372;
+  flex-grow: .37;
    border-top-color:white;
 }
 
@@ -419,5 +419,4 @@ body {
   width: 100%;
   height: 10%;
 }
-
 
