@@ -1,12 +1,12 @@
 body {
-  width: 550px;
-  height: 1000px;
+  width: 100%;
+  height: 100%;
 }
 
 .foo {   
     flex-basis: auto;
     border-width: 2.5px;
-    height: 20px;
+
     border-style: solid;
     border-color: black;
     box-sizing: border-box;
@@ -17,6 +17,8 @@ body {
     border-style: solid;
     border-color: black;
   box-sizing: border-box;
+  height: 450px;
+  width: 750px;
 }
 .row1 #item1 {
   flex-grow: 1;
@@ -24,7 +26,6 @@ body {
 .row1 #item2 {
   flex-grow: 1.5;
 }
-
 
 .row1 #item3 {
   flex-grow: 2;
@@ -184,17 +185,17 @@ body {
   flex-grow: .84;
 }
 .row6 #item3 {
-  flex-grow: .84;
+  flex-grow: .87;
 }
 .row6 #item4 {
-  flex-grow: 1.99;
+  flex-grow: 1.96;
 }
 .row6 #item5 {
-   flex-grow: 1.45;
+   flex-grow: 1.44;
   border-bottom-color: white;
 }
 .row6 #item6 {
-  flex-grow: 1.489;
+  flex-grow: 1.44;
   border-bottom-color: white;
 }
 .row6 #item7 {
@@ -219,7 +220,7 @@ body {
 }
 
 .row7 #item4 {
-  flex-grow: 2;
+  flex-grow: 1.98;
     border-bottom-color: #0D7FBE;
 }
 
@@ -229,7 +230,7 @@ body {
 
 }
 .row7 #item6 {
-  flex-grow: 1.47;
+  flex-grow: 1.45;
   border-top-color: white;
 }
 
@@ -260,12 +261,12 @@ body {
 }
 
 .row8 #item4 {
-  flex-grow: 2;
+  flex-grow: 1.97;
     border-top-color: #0D7FBE;
 }
 
 .row8 #item5 {
-   flex-grow: 3;
+   flex-grow: 2.95;
    border-bottom-color:yellow;
 }
 .row8 #item6 {
@@ -294,12 +295,12 @@ body {
 }
 
 .row9 #item4 {
-  flex-grow: .36;
+  flex-grow: .366;
   border-bottom-color:white;
 }
 
 .row9 #item5 {
-   flex-grow: 2;
+   flex-grow: 1.99;
    border-bottom-color:red;
 }
 .row9 #item6 {
@@ -318,7 +319,7 @@ body {
 }
 
 .row10 #item1 {
-  flex-grow: 1.7;
+  flex-grow: 1.69;
 }
 .row10 #item2 {
   flex-grow: .367;
@@ -419,4 +420,5 @@ body {
   width: 100%;
   height: 10%;
 }
+
 
